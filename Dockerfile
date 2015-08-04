@@ -46,7 +46,7 @@ ADD .htaccess /app/.htaccess
 ADD ApacheConfig.conf /etc/apache2/sites-enabled/000-default.conf
 
 # Run Composer
-RUN cd /app && composer update
+#RUN cd /app && composer update
 
 # Run NPM install
 #RUN cd /app && npm install
