@@ -4,7 +4,7 @@ body{
 .tagline{
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
-  font-size: 20px;
+  font-size: 58px;
   text-align: center;
   width: 300px;
   height: 300px;
@@ -14,11 +14,11 @@ body{
   position: fixed;
   top: 0px;
   right: 0px;
-  color: #666666;
+  color: #CCCCCC;
   margin-top: 54px;
   margin-right: 54px;
 }
-.car{
+.answer{
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
   font-size: 85px;
