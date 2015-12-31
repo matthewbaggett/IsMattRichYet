@@ -1,4 +1,4 @@
-better_than_an_audi_a1
+Is Matt Rich Yet?
 ======================
 
-A site of things that are better to own and drive than an Audi A1. Mostly to annoy @brins0# IsMattRichYet
+Answering the important questions, as per usual.
